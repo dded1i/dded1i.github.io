@@ -1,0 +1,36 @@
+body{
+  text-align: left;
+background-color: #F7F6F2;
+font-family: 'Vollkorn', serif;
+color: #362222;
+padding-bottom: 3%;
+padding-right: 2%;
+}
+
+h2{
+  text-align: center;
+  padding-top: 3%;
+  font-size: 27px;
+}
+.intro{
+  padding-top: 1%;
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 18px;
+}
+.theo{
+  padding-top: 1%;
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 18px;
+}
+.space{
+  padding-bottom: 1%;
+}
+.taski{
+  padding-top: 1%;
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 18px;
+  text-align: left;
+}

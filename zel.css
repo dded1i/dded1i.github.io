@@ -1,0 +1,51 @@
+body{
+  text-align: left;
+background-color: #F7F6F2;
+font-family: 'Vollkorn', serif;
+color: #362222;
+padding-bottom: 3%;
+padding-right: 2%;
+}
+h2{
+  text-align: center;
+  padding-top: 3%;
+  font-size: 27px;
+}
+h3{
+  font-size: 21px;
+  padding-left: 3%;
+}
+.theory{
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 18px;
+  padding-bottom: 1%;
+}
+.blok1{
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 18px;
+  padding-bottom: 2%;
+}
+.blok2{
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 18px;
+  padding-bottom: 1%;
+}
+.blok3{padding-left: 3%;
+padding-right: 4%;
+font-size: 18px;
+padding-bottom: 1%;
+}
+.inte{
+  padding-top: 0.5%;
+  width: 32%;
+  height:auto;
+}
+.sq{
+  padding-top: 0.5%;
+width: 28%;
+height:auto;
+padding-left: 3%;
+}

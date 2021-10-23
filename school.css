@@ -1,0 +1,52 @@
+body{margin: 0;
+text-align:center;
+background-color: #CDF0EA;
+font-family: 'Vollkorn', serif;}
+
+.top-container2{
+  color: white;
+  background-color: #C490E4;
+  padding: 10px 0 25px;
+  height: 50px;
+  font-size: 30px;
+}
+
+.classes{ color:#0C4271;
+text-decoration: none;
+text-align:left;
+padding-left: 10%;
+padding-right: 35%;
+padding-top: 3%;
+}
+
+.eleven{font-size: 23px;}
+
+.booky {
+  width: 24%;
+  height: auto;
+  float:right;
+  padding-top: 3%;
+  padding-right: 7%;
+}
+
+.linkies{
+font-weight: bold;
+text-decoration:none;
+color: #0C4271;
+padding-bottom: 1%;
+}
+.words{
+  font-size: 23px;
+ color:#0C4271;
+ text-align: right;
+ padding-top: 10%;
+ padding-right: 7%;
+ padding-left: 5%;
+}
+.study{
+  width: 20%;
+  height: auto;
+  float:left;
+  padding-left: 10%;
+  padding-top: 3%;
+}

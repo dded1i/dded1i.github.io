@@ -1,0 +1,102 @@
+body{
+  text-align: left;
+background-color: #F7F6F2;
+font-family: 'Vollkorn', serif;
+color: #362222;
+}
+h2{
+  text-align: center;
+  padding-top: 3%;
+  font-size: 27px;
+}
+.topic{
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 18px;
+}
+.zadac{
+  padding-top: 2%;
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 20px;
+  padding-bottom: 5%;
+}
+.binf{padding-left: 4%;
+padding-top: 2%;
+width:50%;
+height:auto;}
+.g{
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 18px;
+}
+.koef{
+  padding-left: 4%;
+  padding-top: 0.5%;
+  width: 6%;
+  height:auto;
+}
+.egg{
+  padding-left: 4%;
+  padding-top: 0.5%;
+  width: 20%;
+  height:auto;
+}
+.bini{
+  padding-left: 4%;
+  padding-top: 0.5%;
+  width: 20%;
+  height:auto;
+}
+.binc{
+  padding-left: 4%;
+  padding-top: 0.5%;
+  width: 40%;
+  height:auto;
+}
+.binl{
+  padding-left: 4%;
+  padding-top: 0.5%;
+  width: 9%;
+  height:auto;
+}
+.huyy{
+  padding-left: 3%;
+  padding-right: 4%;
+  font-size: 18px;
+}
+.mw{
+
+  padding-top: 0.5%;
+  width: 30%;
+  height:auto;
+}
+.sm{
+  padding-top: 0.5%;
+  width: 35%;
+  height:auto;
+}
+.lk{
+  padding-top: 0.5%;
+  width: 45%;
+  height:auto;
+}
+.rt{
+  padding-top: 0.5%;
+  width: 20%;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.fn{
+  padding-top: 0.5%;
+  width: 28%;
+  height:auto;
+}
+.ex{
+  padding-top: 0.5%;
+  width: 34%;
+  height:auto;
+}

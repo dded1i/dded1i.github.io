@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  text-align:center;
+  background-color: #CDF0EA;
+  font-family: 'Vollkorn', serif;
+}
+
+
+.top-container3{color: white;
+background-color: #C490E4;
+padding: 10px 0 25px;
+height: 50px;
+font-size: 30px;}
+.otopic{
+  text-align: left;
+  text-decoration: none;
+  color: #0C4271;
+  font-size: 25px;
+  padding-left: 5%;
+  padding-top: 1%;
+}

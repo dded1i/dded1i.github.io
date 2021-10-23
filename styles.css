@@ -1,0 +1,132 @@
+body{margin: 0;
+text-align:center;
+background-color: #BA135D;
+font-family: 'Vollkorn', serif;
+}
+
+nav {display:flex;
+justify-content: space-around;
+align-items: center;
+min-height: 9vh;
+background-color: #78DEC7;
+font-family: 'Vollkorn', serif;
+}
+.nav-links{
+  display:flex;
+  justify-content: space-around;
+  width: 30%;
+}
+
+.nav-links li {
+  list-style: none;
+}
+
+.heading{
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 20px;
+}
+.nav-links a {
+  color: #194350;
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 14px 16px;
+}
+.nav-links li a:hover:not(.active){
+  background-color: #78DEC7;
+}
+.nav-links li a.active{
+  background-color: #00ADB5;
+}
+
+h1{
+  margin: 30px auto 20px auto;
+  color: white;
+  letter-spacing: 1.5px;
+  line-height: 2;
+  font-size: 312.5%;
+
+}
+
+.first-line{font-size: larger;
+  color:white;
+}
+.second-line{
+  color: #94D0CC;
+}
+
+.top-container{
+  background-color: #BA135D;
+  position: relative;
+}
+
+.circles{
+max-width: 20%;
+position: relative;
+left: 330px;
+}
+
+.book{
+  max-width: 20%;
+  height: auto;
+  position: relative;
+  right: 330px;
+
+}
+.skills{
+  color: white;
+  letter-spacing: 1.5px;}
+
+
+
+.skill-row{
+  color: #94D0CC;
+  text-align:center;
+}
+.maths{
+  max-width: 20%;
+}
+.contact-me{
+  color: white;
+  letter-spacing: 1.5px;
+}
+.messages{
+  max-width: 20%;}
+
+  .qu{max-width: 20%;}
+
+.info{
+  color: #94D0CC;
+}
+
+
+.btn{
+background: #E36BAE;
+background-image: -webkit-linear-gradient(top, #E36BAE);
+background-image: -ms-linear-gradient(top, #E36BAE);
+background-image: -o-linear-gradient(top, #E36BAE);
+background-image: linear-gradient(to bottom, #E36BAE);
+-webkit-border-radius: 14px;
+-moz-border-radius: 14px;
+border-radius: 14px;
+height: 12px;
+line-height: 14px;
+color: #FFFFFF;
+font-family: Open Sans;
+width: 150px;
+font-size: 15px;
+font-weight: 900;
+padding: 15px;
+display: inline-block;
+cursor: pointer;
+}
+.bottom-container1{
+color: #907FA4;
+background-color: #562349;
+padding: 5px 0 10px;
+height: 40px;
+margin-top: 40px;
+}
